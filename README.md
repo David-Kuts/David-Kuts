@@ -9,7 +9,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/david-kuts-583435b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kuts-583435b6/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=David-Kuts&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
